@@ -44,3 +44,17 @@ body {
       font-size: 18px;
     color: #222222;
 }
+
+.imagen{
+       width: 100%;
+    border-radius: 8px;
+}
+
+.tarjeta{
+      background-color: #FFF7FA;
+    border: 2px solid #F4C2D7;
+    margin-bottom: 20px;
+}
+.tarjeta h3 {
+    color: #7A3048;
+}
