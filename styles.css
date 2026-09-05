@@ -74,3 +74,15 @@ body {
 .informacion{
      padding: 60px 0;
 }
+
+.contacto{
+      background-color: #7A3048;
+    color: white;
+    padding: 40px 0;
+}
+.contacto input{
+       padding: 10px;
+    width: 65%;
+    border: none;
+    border-radius: 5px;
+}
