@@ -58,3 +58,14 @@ body {
 .tarjeta h3 {
     color: #7A3048;
 }
+
+.tarjeta p{
+     color: #222222;
+}
+.imagen-grande{
+      padding: 20px 0;
+    background-color: #E39AB5;
+}
+.informacion{
+     padding: 60px 0;
+}
