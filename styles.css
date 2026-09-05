@@ -25,3 +25,22 @@ body {
     border-radius: 5px;
     cursor: pointer;
 }
+.btn-cliente{
+      background-color: #E39AB5;
+    color: #222222;
+}
+
+.presentacion {
+      background-color: #F4C2D7;
+      padding: 60px 0;
+}
+
+.presentacion h1{
+     color: #222222;
+    font-size: 40px;
+}
+
+.presentacion p{
+      font-size: 18px;
+    color: #222222;
+}
