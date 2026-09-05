@@ -86,3 +86,20 @@ body {
     border: none;
     border-radius: 5px;
 }
+@media (max-width: 768px) {
+
+    .presentacion h1 {
+        font-size: 30px;
+    }
+    .presentacion img {
+        margin-top: 30px;
+    }
+    .informacion img {
+        margin-top: 30px;
+    }
+    .contacto input {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+}
