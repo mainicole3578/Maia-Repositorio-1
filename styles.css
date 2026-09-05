@@ -152,3 +152,37 @@ body {
     .presentacion h1 {
         font-size: 30px;
     }
+    .categorias {
+        padding: 40px 20px;
+    }
+
+    .tarjeta {
+        margin-bottom: 25px;
+    }
+
+    .imagen-libro {
+        width: 170px;
+        height: 250px;
+    }
+
+    .Separador {
+        padding: 10px 20px 40px;
+    }
+
+    .imagen {
+        height: 180px;
+    }
+
+    .contacto {
+        padding: 40px 20px;
+    }
+
+    .contacto input {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .contacto .btn-cliente {
+        margin-left: 0;
+    }
+
