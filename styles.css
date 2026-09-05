@@ -44,7 +44,12 @@ body {
       font-size: 18px;
     color: #222222;
 }
-
+.imagen-libro{
+      width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 8px;
+}
 .imagen{
        width: 100%;
     border-radius: 8px;
