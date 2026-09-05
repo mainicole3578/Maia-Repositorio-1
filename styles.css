@@ -105,4 +105,29 @@ body {
     border-radius: 8px;
     display: block;
 }
+.contacto {
+    background-color: #7A3048;
+    color: white;
+    padding: 40px 0;
+}
+
+.contacto h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.contacto p {
+    margin-bottom: 0;
+}
+
+.contacto input {
+    padding: 10px;
+    width: 65%;
+    border: none;
+    border-radius: 5px;
+}
+
+.contacto .btn-cliente {
+    margin-left: 5px;
+}
 
