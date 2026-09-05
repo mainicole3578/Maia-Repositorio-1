@@ -131,3 +131,24 @@ body {
     margin-left: 5px;
 }
 
+@media (max-width: 768px) {}
+
+    .navbar {
+        padding: 15px 20px;
+    }
+
+    .nav-link {
+        margin-left: 0;
+    }
+
+  
+    .navbar .btn-cliente {
+        margin-top: 10px;
+    }
+      .presentacion {
+        padding: 50px 20px;
+    }
+
+    .presentacion h1 {
+        font-size: 30px;
+    }
